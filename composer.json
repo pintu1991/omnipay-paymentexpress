@@ -1,5 +1,5 @@
 {
-  "name": "unoapp-dev/omnipay-paymentexpress",
+  "name": "pintu1991/omnipay-paymentexpress",
   "type": "library",
   "description": "PaymentExpress driver for the Omnipay payment processing library",
   "keywords": [
@@ -11,7 +11,7 @@
     "payment",
     "payments"
   ],
-  "homepage": "https://github.com/unoapp-dev/omnipay-paymentexpress",
+  "homepage": "https://github.com/pintu1991/omnipay-paymentexpress",
   "license": "MIT",
   "authors": [
     {
